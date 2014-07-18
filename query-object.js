@@ -1,4 +1,5 @@
 'use strict';
+
 var queryObject = {};
 
 queryObject.strip = function (str) {
